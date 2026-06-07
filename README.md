@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  A robust file encryption and decryption command-line tool written in Rust.
+  name: rust-aes-crypt version: 1.0 type: Repository author: VarshuAi description: >   A robust file encryption and decryption command-line tool written in Rust. primary_tech: Rust
 primary_tech: Rust
 ```
 
